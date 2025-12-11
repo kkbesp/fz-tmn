@@ -262,7 +262,6 @@ ulica/dom/
 
 * 1.rfid
 * 2.nfc
-* 3.sub
 * 4.ibutton
 
 Для нескольких дампов:
