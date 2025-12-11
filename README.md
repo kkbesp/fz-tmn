@@ -245,7 +245,7 @@ ulica/dom/
 
 Примеры:
 
-* Вацетти → vancetti
+* Ванцетти → vancetti
 * Анатолия Клиндюка → anatoliya_klinduka
 
 ---
