@@ -1,2 +1,2 @@
 shlagbaum_v_zdanie.rfid - Въезд в гаражный комплекс. Шлагбаум со стороны улицы Таймырской. 57.134791, 65.559471
-![shlagbaum_v_zdanie.rfid](https://share.cleanshot.com/YGVtSbPz)
+![shlagbaum_v_zdanie.rfid]([https://share.cleanshot.com/YGVtSbPz](https://media.cleanshot.cloud/media/96143/bCp7lAbmIBGKLFQQlJKj1lC6oEdikDsavqhnO6fc.jpeg?Expires=1765576146&Signature=EzPLaI-u~7uX1eXGlK6G~5XaN2p~1iN9UksM~BVj8dw~-wkxft1i9kRDzq2B1Gu0Gx1sppfq6VET4RRlCTaCbQBexgsMOXQHKmjL~MyYl9LOUAmKSuhuIxwHM8Tp0D0sxI5XgZ1HTO3G1Q-03IPMhZ1LYIo9xH7jlZQS2KJN6He36trrz7ZQ5Hb~5UVuEJjHHZRYDY4jtA246w1qKFEdXrVWxAwmz1q8uLkEL-sqt1GnHzWWDdcA~1H6ySo1rC3Be-wBld5~9DBCvXskpAKU0moUZbLwTQmAfQ-fI5XVO0agJWSm9CKiweioQHQrBa~3RdkrkfqOjGrO6iW~GbDN6Q__&Key-Pair-Id=K269JMAT9ZF4GZ))
